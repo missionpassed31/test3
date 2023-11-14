@@ -32,7 +32,9 @@
     {
       "id": 12,
       "title": "FIFO, LRU and LFU Page replacement",
-      "code": "https://pastebin.com/raw/866dKSUC"
+      "fifo-code": "https://pastebin.com/raw/Y3QgEBvv",
+      "lru-code": "https://pastebin.com/raw/2Mnhj1LL",
+      "lfu-code": "https://pastebin.com/raw/RYxpkcbm"
     },
     {
       "id": 20,
