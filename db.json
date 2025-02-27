@@ -1,40 +1,12 @@
 {
   "codes": [
     {
-      "id": 7,
-      "title": "Dining Philosopher problem",
-      "code": "https://pastebin.com/raw/njLBWqrm"
+      "id": 1,
+      "code": "https://raw.githubusercontent.com/sayantanroy14/exp/refs/heads/main/ex%205"
     },
     {
-      "id": 8,
-      "title": "FCFS-SJF",
-      "fcfs-code": "https://pastebin.com/raw/CCBkmFiV",
-      "sjf-code": "https://pastebin.com/raw/zcjH4KNg"
-    },
-    {
-      "id": 9,
-      "title": "Priority and Round Robin scheduling",
-      "priority-code": "https://pastebin.com/raw/JUBNDYMa",
-      "rr-code": "https://pastebin.com/raw/ibK1nB30"
-    },
-    {
-      "id": 10,
-      "title": "Bankers Algorithm",
-      "code": "https://pastebin.com/raw/nsqD2r5f"
-    },
-    {
-      "id": 11,
-      "title": "First Fit, Best fit and Worst fit",
-      "ff-code": "https://pastebin.com/raw/z45FDgpE",
-      "bf-code": "https://pastebin.com/raw/ApgzYthn",
-      "wf-code": "https://pastebin.com/raw/LH99nPfC"
-    },
-    {
-      "id": 12,
-      "title": "FIFO, LRU and LFU Page replacement",
-      "fifo-code": "https://pastebin.com/raw/Y3QgEBvv",
-      "lru-code": "https://pastebin.com/raw/2Mnhj1LL",
-      "lfu-code": "https://pastebin.com/raw/RYxpkcbm"
+      "id": 2,
+      "code": "https://pastebin.com/raw/zcjH4KNg"
     },
     {
       "id": 20,
