@@ -2,11 +2,33 @@
   "codes": [
     {
       "id": 1,
-      "code": "https://raw.githubusercontent.com/sayantanroy14/exp/refs/heads/main/ex%205"
+      "code": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/1.l",
+      "code2": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/1_2.l",
+      "code3": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/1_3.l"
     },
     {
       "id": 2,
+      "code": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/LexicalAnalysis.l"
+    },
+    {
+      "id": 3,
+      "code": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/calc.c"
+    },
+    {
+      "id": 4,
+      "code": "https://raw.githubusercontent.com/sayantanroy14/exp/refs/heads/main/ex%205"
+    },
+    {
+      "id": 5,
       "code": "https://raw.githubusercontent.com/sayantanroy14/exp/refs/heads/main/ex4"
+    },
+    {
+      "id": 6,
+      "code": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/LR.c"
+    },
+    {
+      "id": 7,
+      "code": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/FollowFirst.c"
     },
     {
       "id": 20,
