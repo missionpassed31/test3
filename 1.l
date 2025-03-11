@@ -1,3 +1,4 @@
+// 1.WRITE A PROGRAM FOR FINDING A CAPITAL LETTER OR NOT
 %{
 int count = 0;
 %}
