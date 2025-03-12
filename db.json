@@ -31,6 +31,11 @@
       "code": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/FollowFirst.c"
     },
     {
+      "id": 8,
+      "calc flex": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/calc.l",
+      "calc bison": "https://raw.githubusercontent.com/missionpassed31/test3/refs/heads/main/calc.y"
+    },
+    {
       "id": 20,
       "title": "Alternate and Combined Codes",
       "code": "https://pastebin.com/raw/zSTRygCR"
